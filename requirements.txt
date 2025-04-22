@@ -1,0 +1,92 @@
+alembic==1.15.1
+astroid==3.3.9
+attrs==24.2.0
+black==25.1.0
+Box2D==2.3.10
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1725267563793/work
+certifi @ file:///home/conda/feedstock_root/build_artifacts/certifi_1739515848642/work/certifi
+cffi @ file:///Users/runner/miniforge3/conda-bld/cffi_1725560622100/work
+charset-normalizer @ file:///home/conda/feedstock_root/build_artifacts/charset-normalizer_1735929714516/work
+click==8.1.8
+cloudpickle==3.1.1
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1733218098505/work
+coloredlogs==15.0.1
+colorlog==6.9.0
+contourpy==1.3.0
+cycler==0.12.1
+decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1740384970518/work
+dill==0.3.9
+exceptiongroup==1.2.2
+filelock==3.18.0
+fonttools==4.55.3
+fsspec==2025.3.0
+gitdb==4.0.11
+GitPython==3.1.43
+greenlet==3.1.1
+gym==0.26.2
+gym-notices==0.0.8
+h11==0.14.0
+h2 @ file:///home/conda/feedstock_root/build_artifacts/h2_1738578511449/work
+hpack @ file:///home/conda/feedstock_root/build_artifacts/hpack_1737618293087/work
+humanfriendly==10.0
+hyperframe @ file:///home/conda/feedstock_root/build_artifacts/hyperframe_1737618333194/work
+idna @ file:///home/conda/feedstock_root/build_artifacts/idna_1733211830134/work
+imageio @ file:///home/conda/feedstock_root/build_artifacts/imageio_1738273805233/work
+imageio-ffmpeg @ file:///home/conda/feedstock_root/build_artifacts/imageio-ffmpeg_1737102630951/work
+importlib_metadata==8.6.1
+importlib_resources==6.5.2
+Jinja2==3.1.6
+kiwisolver==1.4.7
+Mako==1.3.9
+MarkupSafe==3.0.2
+matplotlib==3.9.4
+mccabe==0.7.0
+moviepy @ file:///home/conda/feedstock_root/build_artifacts/moviepy_1665160419595/work
+mpmath==1.3.0
+msgpack==1.1.0
+mypy-extensions==1.0.0
+networkx==3.2.1
+numpy==1.23.5
+optuna==4.2.1
+outcome==1.3.0.post0
+packaging==24.2
+pathspec==0.12.1
+persist-queue==1.0.0
+pillow==10.4.0
+platformdirs==4.3.6
+prettier==0.0.7
+proglog @ file:///home/conda/feedstock_root/build_artifacts/proglog_1728452852274/work
+psutil==6.1.0
+pycodestyle==2.12.1
+pycparser @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_pycparser_1733195786/work
+pygame==2.6.1
+pylint==3.3.5
+pynvim==0.5.0
+pyparsing==3.2.1
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1733217236728/work
+python-dateutil==2.9.0.post0
+python-dotenv==1.0.1
+PyYAML==6.0.2
+requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
+selenium==4.25.0
+six==1.17.0
+smmap==5.0.1
+sniffio==1.3.1
+sortedcontainers==2.4.0
+SQLAlchemy==2.0.39
+sympy==1.13.1
+tomli==2.2.1
+tomlkit==0.13.2
+torch==2.6.0
+torchaudio==2.6.0
+torchvision==0.21.0
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1735661334605/work
+trio==0.27.0
+trio-websocket==0.11.1
+typing_extensions==4.12.2
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1734859416348/work
+verboselogs==1.7
+websocket-client==1.8.0
+wsproto==1.2.0
+zipp==3.21.0
+zstandard==0.23.0
